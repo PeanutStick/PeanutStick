@@ -3,6 +3,6 @@
 <h2></h2><br>
 <p align="center">
   <samp>
-    [<p>Hi.</p>]
+    <p>Hi.</p>
   </samp>
 </p>
